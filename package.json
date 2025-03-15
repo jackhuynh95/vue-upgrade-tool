@@ -1,5 +1,5 @@
 {
-  "name": "vue-upgrade-tool",
+  "name": "vue-vuetify-upgrade-tool",
   "description": "Tool to aid in Vue 2 -> Vue 3 migration",
   "type": "module",
   "version": "1.0.37",
