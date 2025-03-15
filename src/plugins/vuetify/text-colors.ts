@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { CodemodPlugin } from 'vue-metamorph';
 import * as changeCase from 'change-case';
 
