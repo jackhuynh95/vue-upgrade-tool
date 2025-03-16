@@ -1,10 +1,10 @@
 {
-  "name": "vue-vuetify-upgrade-tool",
+  "name": "vue-upgrade-tool",
   "description": "Tool to aid in Vue 2 -> Vue 3 migration",
   "type": "module",
-  "version": "1.0.37",
+  "version": "1.0.38",
   "bin": {
-    "vue-vuetify-upgrade-tool": "dist/cli.js"
+    "vue-upgrade-tool": "dist/cli.js"
   },
   "license": "MIT",
   "repository": {
